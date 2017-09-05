@@ -8,8 +8,6 @@ import com.readfile.ReadFile;
 
 public class Demo {
 
-	private static int a = 1;
-
 	private static Scanner readTextFromFile;
 	private static File privateFile = new File("E:\\JavaMusala\\PhoneBook\\src\\com\\contacts\\text.txt");
 
